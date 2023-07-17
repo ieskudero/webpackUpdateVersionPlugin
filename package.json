@@ -1,6 +1,6 @@
 {
     "name": "webpack-update-version-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "webpack plugin that updates the version in package.json",
     "main": "src/webpackUpdateVersionPlugin.js",
 	"module": "src/webpackUpdateVersionPlugin.js",
