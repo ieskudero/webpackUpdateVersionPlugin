@@ -1,0 +1,27 @@
+{
+    "name": "webpack-update-version-plugin",
+    "version": "1.0.0",
+    "description": "webpack plugin that updates the version in package.json",
+    "main": "src/webpackUpdateVersionPlugin.js",
+	"module": "src/webpackUpdateVersionPlugin.js",
+    "scripts": {
+        "lint": "eslint --fix --ext .js,.jsx ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:ieskudero/three-dxf-viewer.git"
+    },
+    "keywords": ["webpack", "plugin", "version", "package.json"],
+    "author": "Ibon Eskudero",
+    "license": "MIT",  
+	"bugs": {
+		"url": "https://github.com/ieskudero/webpackUpdateVersionPlugin/issues"
+	  },
+	"homepage": "https://ieskudero.github.io/webpackUpdateVersionPlugin",
+    "devDependencies": {
+        "eslint": "8.43.0",
+        "eslint-config-recommended": "4.1.0",
+		"eslint-plugin-import": "2.27.5"
+    },
+    "dependencies": {}
+}
