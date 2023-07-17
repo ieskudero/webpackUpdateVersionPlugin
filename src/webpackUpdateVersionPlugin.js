@@ -5,7 +5,7 @@ const { trim } = require( 'jquery' );
 const readline = require( 'readline' );
 
 // plugin that increments package.json version number.
-class WebpackVersionInjectPlugin {
+class WebpackUpdateVersionPlugin {
 
 	/**
    * Constructor,
@@ -81,4 +81,4 @@ class WebpackVersionInjectPlugin {
 	}
 }
 
-module.exports = WebpackVersionInjectPlugin;
+module.exports = WebpackUpdateVersionPlugin;
