@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:ieskudero/three-dxf-viewer.git"
+        "url": "git@github.com:ieskudero/webpackUpdateVersionPlugin.git"
     },
     "keywords": ["webpack", "plugin", "version", "package.json"],
     "author": "Ibon Eskudero",
