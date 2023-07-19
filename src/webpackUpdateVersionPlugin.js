@@ -1,7 +1,6 @@
 /* eslint-disable no-unused-vars */
 
 const fs = require( 'fs' );
-const { trim } = require( 'jquery' );
 const readline = require( 'readline' );
 
 // plugin that increments package.json version number.
